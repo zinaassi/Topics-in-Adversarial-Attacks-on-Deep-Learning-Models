@@ -1,0 +1,12 @@
+# HW1 requirements (a CPU is enough).  Install with:   pip install -r requirements.txt
+torch>=2.0
+torchvision
+numpy
+scikit-learn         # accuracy / F1 metrics
+matplotlib           # figures
+pillow               # GIF animations
+tqdm                 # progress bars (downloads)
+jupyterlab           # `jupyter lab` to open the notebook (not needed if you use VS Code)
+ipykernel
+ipywidgets
+nbconvert            # `jupyter nbconvert` to export the notebook to HTML
